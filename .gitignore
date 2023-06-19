@@ -1,3 +1,6 @@
 # 데이터 무시
 Step5/data/
 Step6/data/
+
+# 캐시 파일 무시
+*.DS_Store
