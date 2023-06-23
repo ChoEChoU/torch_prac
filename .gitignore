@@ -1,6 +1,7 @@
 # 데이터 무시
 Step5/data/
 Step6/data/
+Pytorch_Tutorials/data/
 
 # 캐시 파일 무시
 *.DS_Store
